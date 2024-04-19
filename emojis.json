@@ -1,5 +1,4 @@
-{
-  [
+[
 {"type": "emoji", "emoji": "😀"},
 {"type": "emoji", "emoji": "😃"},
 {"type": "emoji", "emoji": "😄"},
@@ -17,4 +16,3 @@
 {"type": "emoji", "emoji": "😛"},
 {"type": "emoji", "emoji": "😜"}
 ]
-}
